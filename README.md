@@ -44,3 +44,16 @@ shellcheck **/*.sh
 ```
 
 ## Estrutura
+bash-scripting-lab/
+├── backup/
+│   └── backup-rotacao-7d.sh
+├── monitoramento/
+│   ├── monitor-disco.sh
+│   └── parser-logs.sh
+└── cron/
+└── cron-job.sh
+
+## Autor 
+**Maykon Nunes** — Infraestrutura, Redes e Cibersegurança  
+[GitHub](https://github.com/maykon-nunes96)
+
