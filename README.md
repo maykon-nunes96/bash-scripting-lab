@@ -1,5 +1,5 @@
-
 # Bash Scripting Lab
+
 Scripts Bash para automação, monitoramento e administração de sistemas Linux.
 
 ## Conteúdo
@@ -35,7 +35,7 @@ chmod +x backup/backup-rotacao-7d.sh
 ./backup/backup-rotacao-7d.sh
 ```
 
-##  Validação com ShellCheck
+## Validação com ShellCheck
 
 Todos os scripts foram validados com ShellCheck:
 
@@ -44,19 +44,3 @@ shellcheck **/*.sh
 ```
 
 ## Estrutura
-
-```
-bash-scripting-lab/
-├── backup/
-│   └── backup-rotacao-7d.sh
-├── monitoramento/
-│   ├── monitor-disco.sh
-│   └── parser-logs.sh
-├── cron/
-│   └── cron-job.sh
-└── docs/
-    └── exemplos-saida.md
-```
-## Autor
-**Maykon Nunes** — Infraestrutura, Redes e Cibersegurança  
-[GitHub](https://github.com/maykon-nunes96)
