@@ -51,7 +51,7 @@ bash-scripting-lab/
 │   ├── monitor-disco.sh
 │   └── parser-logs.sh
 └── cron/
-    └── cron-job.sh
+└── cron-job.sh
 
 ## Autor 
 **Maicon Nunes** — Infraestrutura, Redes e Cibersegurança  
