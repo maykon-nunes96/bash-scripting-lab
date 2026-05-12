@@ -1,10 +1,8 @@
-# bash-scripting-lab
-Scripts Bash para automação e monitoramento de sistemas Linux
-# 🖥️ Bash Scripting Lab
 
+# Bash Scripting Lab
 Scripts Bash para automação, monitoramento e administração de sistemas Linux.
 
-## 📋 Conteúdo
+## Conteúdo
 
 | Script | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -13,7 +11,7 @@ Scripts Bash para automação, monitoramento e administração de sistemas Linux
 | `monitoramento/parser-logs.sh` | Extrai e estrutura eventos de logs do sistema | bash, awk, grep |
 | `cron/cron-job.sh` | Agendamento automatizado de tarefas | cron, bash |
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Sistema operacional: Linux (Ubuntu 20.04+ ou Debian 11+)
 - Bash 5.0+
@@ -27,7 +25,7 @@ sudo apt install shellcheck -y
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USERNAME/bash-scripting-lab.git
+git clone https://github.com/maykon-nunes96/bash-scripting-lab.git
 cd bash-scripting-lab
 
 # Dar permissão de execução
@@ -37,7 +35,7 @@ chmod +x backup/backup-rotacao-7d.sh
 ./backup/backup-rotacao-7d.sh
 ```
 
-## ✅ Validação com ShellCheck
+##  Validação com ShellCheck
 
 Todos os scripts foram validados com ShellCheck:
 
@@ -59,5 +57,6 @@ bash-scripting-lab/
 └── docs/
     └── exemplos-saida.md
 ```
-
-
+##Autor
+**Maykon Nunes** — Infraestrutura, Redes e Cibersegurança  
+[GitHub](https://github.com/maykon-nunes96)
