@@ -54,6 +54,6 @@ bash-scripting-lab/
 └── cron-job.sh
 
 ## Autor 
-**Maykon Nunes** — Infraestrutura, Redes e Cibersegurança  
+**Maicon Nunes** — Infraestrutura, Redes e Cibersegurança  
 [GitHub](https://github.com/maykon-nunes96)
 
